@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hilalcode/new-year/static/css/main.ced9a0e0.css",
+    "main.js": "/hilalcode/new-year/static/js/main.37519381.js",
+    "static/js/787.0aaf281e.chunk.js": "/hilalcode/new-year/static/js/787.0aaf281e.chunk.js",
+    "index.html": "/hilalcode/new-year/index.html",
+    "main.ced9a0e0.css.map": "/hilalcode/new-year/static/css/main.ced9a0e0.css.map",
+    "main.37519381.js.map": "/hilalcode/new-year/static/js/main.37519381.js.map",
+    "787.0aaf281e.chunk.js.map": "/hilalcode/new-year/static/js/787.0aaf281e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ced9a0e0.css",
+    "static/js/main.37519381.js"
+  ]
+}
